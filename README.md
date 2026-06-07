@@ -1,10 +1,5 @@
-<img width="1264" height="625" alt="Carrinho -- Remover item do carrinho (failed)" src="https://github.com/user-attachments/assets/e019a58a-4e0c-475d-92c5-5e0fbf62a216" />
-<img width="1000" height="1866" alt="Adicionar item ao carrinho" src="https://github.com/user-attachments/assets/83224e5e-5ca0-4c17-a0a6-df042dd3c04a" />
+
 #Projeto de automação com Cypress no site Saucedemo 
-
-
-
-
 
 
 
