@@ -1,7 +1,9 @@
 #Projeto de automação com Cypress no site Saucedemo 
 
 #Teste de login de usuario valido e não valido
+
 #Teste de adicionar item ao carrinho com sucesso 
+
 #Teste de exclusão do item ao carrinho com falha 
 
 
